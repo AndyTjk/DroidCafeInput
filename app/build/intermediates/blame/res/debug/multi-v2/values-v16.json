@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Kuliah\\Semester6\\Pengembangan Aplikasi Mobile(Android)\\DroidCafeChallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andy Tjakra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\556dc2a3df4fa4f7eca9fa18e9979750\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Andy Tjakra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\42c2d342e1e6244156c667fd03dabe66\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Kuliah\\Semester6\\Pengembangan Aplikasi Mobile(Android)\\DroidCafeInput\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andy Tjakra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\556dc2a3df4fa4f7eca9fa18e9979750\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Andy Tjakra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\42c2d342e1e6244156c667fd03dabe66\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
